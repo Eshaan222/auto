@@ -1,0 +1,7 @@
+Select * from AdmNo where House="Green"
+
+Select * from AdmNo Order By Marks Desc
+
+delete from AdmNo where Marks=79
+
+update AdmNo set Grade="Great" where Grade="A"
